@@ -13,7 +13,7 @@ apt install git -y
 git clone --depth 1 https://github.com/drx-on-fire/Drx-Random-Fire
 ```
 
-### How to use Python-Encrypt
+### How to use
 
 ```
 cd Drx-Random-Fire
